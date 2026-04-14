@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Keystroke Distiller",
+    "slug": "keystroke-distiller",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#0a0a0a" },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.keystroke.distiller"
+    },
+    "android": {
+      "adaptiveIcon": { "backgroundColor": "#0a0a0a" },
+      "package": "com.keystroke.distiller"
+    },
+    "plugins": ["expo-sqlite"]
+  }
+}
